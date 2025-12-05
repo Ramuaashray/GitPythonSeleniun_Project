@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PractiesCode/.idea/PractiesCode.iml" filepath="$PROJECT_DIR$/../PractiesCode/.idea/PractiesCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PythonProjectTesting/.idea/PythonProjectTesting.iml" filepath="$PROJECT_DIR$/../PythonProjectTesting/.idea/PythonProjectTesting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PythonSelenium.iml" filepath="$PROJECT_DIR$/.idea/PythonSelenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RefresherPython/.idea/RefresherPython.iml" filepath="$PROJECT_DIR$/../RefresherPython/.idea/RefresherPython.iml" />
+    </modules>
+  </component>
+</project>
